@@ -11,7 +11,7 @@ Inspired by [no-as-a-service](https://github.com/hotheadhacker/no-as-a-service),
 Install it in an existing Express application:
 
 ```bash
-npm install daas express
+npm install @kookyharsh/daas express
 ```
 
 Mount the exported Express app (it does not start a server when imported):
