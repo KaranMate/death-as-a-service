@@ -1,5 +1,5 @@
 {
-  "name": "daas",
+  "name": "@kookyharsh/daas",
   "version": "1.0.0",
   "description": "A darkly humorous API that returns random reasons for death . Because everyone's gotta go sometime.",
   "main": "app.js",
