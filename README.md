@@ -1,4 +1,4 @@
-☠️ # Death-as-a-Service (DaaS)
+# ☠️ Death-as-a-Service (DaaS)
 
 > A darkly humorous API that returns random, ridiculous death scenarios. Because everyone's gotta go sometime.
 
